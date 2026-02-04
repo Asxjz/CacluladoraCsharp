@@ -10,7 +10,7 @@ namespace Calculadora_Simples {
         static void Main(string[] args) {
 
             while (true) { 
-                // Loop da Calculadora Tchola
+                // Loop da Calculadora 
 
                 // Primeiro Numero
                 double valory = 0;
@@ -96,3 +96,4 @@ namespace Calculadora_Simples {
         }
     }
 }
+
